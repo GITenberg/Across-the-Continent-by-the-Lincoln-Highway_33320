@@ -1,0 +1,27 @@
+_repo: Across-the-Continent-by-the-Lincoln-Highway_33320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gladding, Effie Price
+    gutenberg_agent_id: '36329'
+    url: http://www.gutenberg.org/2009/agents/36329
+description: ''
+gutenberg_issued: '2010-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33320'
+  lccn: '16013765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobile travel'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Lincoln Highway'
+- !lcc 'E151'
+title: Across the Continent by the Lincoln Highway
+url: http://www.gutenberg.org/ebooks/33320
